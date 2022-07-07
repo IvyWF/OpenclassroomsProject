@@ -1,2 +1,0 @@
-# OpenclassroomsProject
-pour les exercices
